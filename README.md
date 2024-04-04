@@ -1,10 +1,7 @@
 # presentacion-
+# Dattoli Lautaro
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+-Tengo 20 años y este es mi segundo año en la carrera.
+-Empece la carrera para programar sin saber que tenia parte administrativa
 
 Ya saben usar git!
