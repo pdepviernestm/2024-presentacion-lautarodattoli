@@ -1,6 +1,6 @@
-===# **PRESENTACION** 
+# **PRESENTACION** 
 
-# **Dattoli Lautaro** #
+# _**Dattoli Lautaro**_ #
 ------------
 - Tengo 20 años y este es mi segundo año en la carrera.
 - Empece la carrera para programar 
